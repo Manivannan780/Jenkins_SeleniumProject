@@ -1,0 +1,7 @@
+<suite name="Lolli and Pops Site Validation">
+<test name="Checkout Page Verification">
+<Classes>
+<class name = "page_Testcases.Add_To_Cart" ></class>
+</Classes>
+</test>
+</suite>
